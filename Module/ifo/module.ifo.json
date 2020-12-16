@@ -1110,14 +1110,42 @@
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
-          "value": "playerapartmentl"
+          "value": "apartmentsmempt"
         }
       },
       {
         "__struct_id": 6,
         "Area_Name": {
           "type": "resref",
-          "value": "playerapartme002"
+          "value": "apartmentsmfurn"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "apartmentmdempt"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "apartmentmdfurn"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "apartmentlgempt"
+        }
+      },
+      {
+        "__struct_id": 6,
+        "Area_Name": {
+          "type": "resref",
+          "value": "apartmentlgefurn"
         }
       }
     ]
